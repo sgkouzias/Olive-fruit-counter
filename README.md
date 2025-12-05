@@ -23,13 +23,13 @@ To build and run this project, you will need to have the Flutter SDK installed.
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/sgkouzias/Olive-fruit-counter.git
+    git clone https://github.com/sgkouzias/olive_counter.git
     ```
 
 2.  Navigate to the project directory:
 
     ```bash
-    cd Olive-fruit-counter
+    cd olive_counter
     ```
 
 3.  Install the dependencies:
